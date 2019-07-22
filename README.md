@@ -1,2 +1,3 @@
 # stepic-auto-tests-course
-it's homework
+it's homework.
+Прекрасный курс степика авто-тест предлагает также узнать о гитхаб (СПАСИБО ИМ ОГРОМНОЕ)
